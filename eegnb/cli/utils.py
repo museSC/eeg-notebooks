@@ -12,7 +12,7 @@ from eegnb.experiments.visual_p300 import p300
 from eegnb.experiments.visual_ssvep import ssvep
 from eegnb.experiments.visual_cueing import cueing
 from eegnb.experiments.visual_codeprose import codeprose
-from eegnb.experiments.auditory_oddball import aob, diaconescu
+from eegnb.experiments.auditory_oddball import aob, diaconescu, aob_SC
 from eegnb.experiments.auditory_ssaep import ssaep, ssaep_onefreq
 
 
